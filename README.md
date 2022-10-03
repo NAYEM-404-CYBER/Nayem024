@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nayem024
-- 👀 I’m interested in paython
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
